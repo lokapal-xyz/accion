@@ -24,6 +24,4 @@ Para las DAO que enfrentan decisiones complejas, evolución de su estructura o b
 
 ---
 
-Lokapal Acción refleja el pulso de nuestro trabajo: un puente en constante evolución entre el pensamiento y la práctica. Si están construyendo, explorando o simplemente buscando conversaciones significativas sobre gobernanza descentralizada, nos encantaría conectar con ustedes.
-
 🔸Para consultas y colaboraciones, visita nuestra [**Página de contacto**](../contacto/).
