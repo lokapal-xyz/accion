@@ -8,7 +8,7 @@ Este es el aspecto práctico de Lokapal: un espacio donde la educación, la inve
 
 ## 🔹DAO Enfoque  
 **Análisis profundos e independientes sobre las DAO y la gobernanza descentralizada.**  
-DAO Enfoque es el punto de encuentro entre la investigación y la implementación. Esta iniciativa presenta análisis detallados de DAOs activas y sus aspectos de gobernanza, analizando qué funciona, qué presenta dificultades y por qué. Estos enfoques pueden convertirse en conversaciones públicas, mesas redondas o análisis por encargo, pero siempre con un espíritu de indagación constructiva.
+DAO Enfoque es el punto de encuentro entre la investigación y la implementación. Esta iniciativa presenta análisis detallados de DAOs activas y sus aspectos de gobernanza, analizando qué funciona, qué presenta dificultades y por qué. Este repositorio de estudios de caso puede expandirse hacia conversaciones focalizadas, mesas redondas o análisis por encargo, pero siempre con un espíritu de indagación constructiva.
 
 ## 🔹Gaceta DAO  
 **Selección de novedades sobre gobernanza descentralizada y desarrollos en DAO.**  
