@@ -15,5 +15,5 @@ Está dirigido a personas involucradas en la coordinación descentralizada: cont
 ## Ediciones
 
 - **Junio 2025** — _Próximamente._
-- **Mayo 2025** — _Edición de lanzamiento. Novedades sobre DAOs, protocolos Web3, y más._  
+- [**Mayo 2025**](https://lokapal2.substack.com/p/gaceta-dao-1-mayo-2025) — _Edición de lanzamiento. Novedades sobre Mobius, Lido y Cult DAO._  
 
