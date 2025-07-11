@@ -14,6 +14,7 @@ Está dirigido a personas involucradas en la coordinación descentralizada: cont
 
 ## Ediciones
 
-- **Junio 2025** — _Próximamente._
+- **Julio 2025** — _Próximamente._
+- [**Junio 2025**](https://lokapal2.substack.com/p/gaceta-dao-2-junio-2025) — _Novedades sobre Compound, Arbitrum y Uniswap._
 - [**Mayo 2025**](https://lokapal2.substack.com/p/gaceta-dao-1-mayo-2025) — _Edición de lanzamiento. Novedades sobre Mobius, Lido y Cult DAO._  
 
